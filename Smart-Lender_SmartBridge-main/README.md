@@ -21,7 +21,7 @@ The project follows a modular three-layer architecture:
 3. **Presentation Layer:** Built with HTML5, CSS3, JavaScript, Jinja2 templates, and Bootstrap for a responsive user experience.
 
 ## 👥 Project Submitted By
-**Shaik Shahil** - shaik.shahil9959@gmail.com
+**NAGI-REDDY** - nagi2271@gmail.com
 
 ## 🚀 How to Run the Application
 

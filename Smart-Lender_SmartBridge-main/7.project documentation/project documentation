@@ -1,0 +1,26 @@
+# Smart-Lender: AI-Based Loan Eligibility Prediction System
+
+## Project Overview
+This project is an end-to-end Machine Learning web application designed to automate and streamline the loan approval process. It replaces manual profiling with predictive modeling to instantly determine applicant loan eligibility.
+
+## Key Features
+* Automated loan eligibility prediction using machine learning.
+* Full-stack web interface for applicant data entry.
+* Real-time analysis of applicant criteria.
+
+## Setup Instructions
+To run this project locally:
+
+1. **Clone the repository:**
+   `git clone https://github.com/nagi2271-ally/Loan-Eligibility-Predictor.git`
+
+2. **Install required libraries:**
+   `pip install -r requirements.txt`
+
+3. **Run the application:**
+   `python app.py`
+
+## Project Structure
+* `app.py`: Main Flask application file.
+* `train_model.py`: Script used for training the machine learning model.
+* `templates/`: Folder containing HTML files for the web interface.
